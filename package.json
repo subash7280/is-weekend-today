@@ -1,0 +1,35 @@
+{
+  "name": "is-weekend-today",
+  "version": "1.0.1",
+  "description": "A tiny JavaScript utility to check if today (or a given date) falls on a weekend. Returns a boolean value — perfect for quick date checks in your projects.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "is-weekend-today": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "keywords": [
+    "is",
+    "today",
+    "weekend",
+    "date",
+    "check",
+    "boolean"
+  ],
+  "author": "Subash Eswaramoorthi",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subash7280/is-weekend-today"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/is-weekend-today/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/is-weekend-today#readme"
+}
